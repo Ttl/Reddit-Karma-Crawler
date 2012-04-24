@@ -1,0 +1,3 @@
+Gets link and comment karma of reddit user accounts.
+
+Run reddit_karma.py to get new account names and update.py to update karma counts of old accounts.
